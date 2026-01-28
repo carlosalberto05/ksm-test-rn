@@ -37,17 +37,17 @@ src/
 Clone the repository:
 bash
 git clone <your-repo-url>
-Usa el código con precaución.
+
 
 Install dependencies:
 bash
 npm install
-Usa el código con precaución.
+
 
 Start the project:
 bash
 npx expo start
-Usa el código con precaución.
+
 
 Test on device:
 Scan the QR code with the Expo Go app (Android/iOS).
